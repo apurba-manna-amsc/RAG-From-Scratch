@@ -55,7 +55,7 @@ This notebook walks through:
 
 📧 Email: [98apurbamanna@gmail.com](mailto:98apurbamanna@gmail.com)  
 🌐 GitHub: [@apurba-manna-amsc](https://github.com/apurba-manna-amsc)  
-💼 LinkedIn: [apurbe-manna](https://linkedin.com/in/apurba-manna)
+💼 LinkedIn: [apurba-manna](https://linkedin.com/in/apurba-manna)
 
 ---
 
